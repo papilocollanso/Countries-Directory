@@ -9,7 +9,7 @@ Countries Directory, a web app for viewing informations of all countries of the 
  - vuejs, html, css and javascript.
 
     check it out -
-    - countries-directories-netlify.app
+    - https://countries-directories.netlify.app
 
 - Main Page (Home)
 
