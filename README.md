@@ -4,8 +4,8 @@ Countries Directory, a web app for viewing informations of all countries of the 
  - responsive design
  - get countries informations according to regions
  - beautiful uiux
- - utilies vuex for efficient data call.
- - vuetify  boostrap used for the designs
+ - utilies vuex for efficient data calls.
+ - vuetify and  boostrap used for the designs
  - vuejs, html, css and javascript.
 
     check it out -
