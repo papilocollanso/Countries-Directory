@@ -10,6 +10,7 @@ Countries Directory, a web app for viewing informations of all countries of the 
 
     check it out -
     - https://countries-directories.netlify.app
+    - https://countries-diary.firebaseapp.com
 
 - Main Page (Home)
 
