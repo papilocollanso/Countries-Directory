@@ -9,8 +9,9 @@ Countries Directory, a web app for viewing informations of all countries of the 
  - vuejs, html, css and javascript.
 
     check it out -
-    - https://countries-directories.netlify.app
-    - https://countries-diary.firebaseapp.com
+    key: pwa - Progressive Web App
+    - https://countries-directories.netlify.app ( non-pwa )
+    - https://countries-diary.firebaseapp.com ( pwa )
 
 - Main Page (Home)
 
